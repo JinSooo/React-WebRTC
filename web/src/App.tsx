@@ -1,3 +1,9 @@
+import WebRTCRecord from './components/WebRTCRecord'
+
 export default function App() {
-	return <h1>WebRTC</h1>
+	return (
+		<div>
+			<WebRTCRecord />
+		</div>
+	)
 }

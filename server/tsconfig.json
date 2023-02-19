@@ -1,9 +1,0 @@
-{
-	"compilerOptions": {
-		"types": ["node"],
-		"module": "ESNext",
-		"esModuleInterop": true,
-		"target": "ESNext",
-		"moduleResolution": "Node"
-	}
-}
